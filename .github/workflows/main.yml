@@ -1,8 +1,8 @@
 name: Portfolio Deployment
  
- on:
+ On:
    push:
-     branches
+     branches:
      -main
      
   jobs:
